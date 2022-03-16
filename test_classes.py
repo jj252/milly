@@ -1,13 +1,4 @@
 import pytest
-'''
-class Person:
-    def __init__(self, name):
-        self.name = name
-
-def test_classes_compare():
-    p1 = Person("Mindy")
-    p2 = Person("Mindy")
-    assert p1 == p2'''
 
 question_list = { "question1": "In 1768 Captain James Cook set out to explore which ocean?",
            "question2": "Who was elected President of the United States in 2016"
